@@ -1,0 +1,8 @@
+1  ---> Making UI using HTML CSS 
+2  ---> Handle Drag/Drop using drag and Drop Api
+3  ---> file input and file system API
+4  ----> Uploading Files using XHR(Ajax) while upoading the progress
+5  ----> Upload progressbar
+6  ----> Copying in Clipboard
+Hamdling email from input using Fetch
+send JSON from data and send POST request using Fetch API
